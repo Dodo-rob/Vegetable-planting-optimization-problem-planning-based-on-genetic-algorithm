@@ -1,4 +1,6 @@
+
 ```************Genetic_algorithm_updata.py************ <br>
+
 ```Genetic_algorithm_updata:主要的运行文件 <br> 
 ```def __init__ :<br>
         :param costs: 作物种植成本的列表<br>
@@ -33,7 +35,9 @@
 ```def crossover : 交叉操作，生成两个子代个体<br>
 ```def mutate : 变异操作：随机改变个体<br>
 ```def run_genetic_algorith : 运行遗传算法并返回最佳个体<br>
+
 ```********************Excel_deal.py********************<br>
+
 ```def read_and_extract_data : 从指定的 Excel 文件中读取指定列，并从指定行范围内提取数据。<br>
     :param file_path: Excel 文件的路径<br>
     :param usecols: 需要读取的列的索引列表<br>
@@ -53,5 +57,7 @@
     :param prices: list, 各年份每种作物的价格。<br>
     :param yields: list, 各年份每种作物的亩产量。<br>
     :param costs: list, 每种作物的种植成本。<br>
+
  ```********************J.xlsx********************<br>
+
     试运行文件
