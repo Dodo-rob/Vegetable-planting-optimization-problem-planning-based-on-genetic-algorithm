@@ -1,4 +1,4 @@
-*************Genetic_algorithm_updata.py************
+#************Genetic_algorithm_updata.py************
 Genetic_algorithm_updata:The main running script of the genetic algorithm
 def __init__ :
         :param costs: 作物种植成本的列表
