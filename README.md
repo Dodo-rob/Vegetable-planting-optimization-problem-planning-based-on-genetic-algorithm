@@ -1,4 +1,4 @@
-程序主要介绍:
+code intriduction
 
 ```************Genetic_algorithm_updata.py************ <br>
 
